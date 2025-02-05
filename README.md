@@ -31,7 +31,6 @@ Every day, I strive to learn something new and push myself to grow in the things
 
 
 
-</td></tr></table>  
 
 <br/>  
 
