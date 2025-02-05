@@ -13,8 +13,6 @@ Every day, I strive to learn something new and push myself to grow in the things
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🧑 I’m 14 years  
   
 
@@ -25,11 +23,6 @@ Every day, I strive to learn something new and push myself to grow in the things
   
 
 - 🎮 I first learned Lua, which got me into coding  
-
-
-</td><td valign="top" width="50%">
-
-
 
 
 <br/>  
